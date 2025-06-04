@@ -11,6 +11,9 @@ Details of this project are as follows:
 Now that you’ve learned the basics of various hypothesis tests and how to evaluate them, it is time to return to Eniac’s A/B test. This is what the homepage currently looks like:
 ![Image Alt Text](homepage.jpeg)
 
+<img src="homepage.jpeg" width="300" alt="Image Alt Text" />
+
+
 The white “SHOP NOW” button takes pride of place in the primary banner, but only attracts about 2% of users, as determined by click-through rate (CTR), a common term in Online Marketing which typically describes the number of clicks an ad receives divided by the number of times the ad is shown. Here, click-through rate is measured as the number of clicks a website element receives divided by the total number of visits on the website. The report from the team analysing the website shows the specific numbers and explains how they reacted to them:
 
 *During the sample period from October 13, 2021 – October 20, 2121, which included 50,061 visits to the homepage, just under 2% of users clicked “SHOP NOW”. This did attract about twice the number of users as the “iPhone” link in the left sidebar, but contrasts with the surrounding banner itself, which gathered a CTR of roughly 3.5%. We asked ourselves if it may be visual features of the “SHOP NOW” button or if the text may feel simply too immediate a commitment to buying for users.*
