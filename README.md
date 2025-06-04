@@ -89,11 +89,11 @@ If the answer is still no, your options are:
 In this case, the website team decided to track drop-off rate and homepage-return rate as well (go back to the previous lesson for the definitions of these terms). To make things spicier, an error in their collection data process made it impossible to know these rates for version B:
 
 <div align="center">
-<img src="drop_off_image-1.png" width="800" alt="Image Alt Text" />
+<img src="drop_off_image-1.png" width="700" alt="Image Alt Text" />
 </div>
 
 <div align="center">
-<img src="home_return_image-1.png" width="800" alt="Image Alt Text" />
+<img src="home_return_image-1.png" width="700" alt="Image Alt Text" />
 </div>
 
 ## 🧩 FINAL QUESTION: With the result of your chi-square tests and this additional data: which version is your winner?
