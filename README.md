@@ -9,8 +9,9 @@ To find out which version of pages is better for business value.
 Details of this project are as follows:
 
 Now that you’ve learned the basics of various hypothesis tests and how to evaluate them, it is time to return to Eniac’s A/B test. This is what the homepage currently looks like:
-
+<div align="center">
 <img src="homepage.jpeg" width="400" alt="Image Alt Text" />
+</div>
 
 The white “SHOP NOW” button takes pride of place in the primary banner, but only attracts about 2% of users, as determined by click-through rate (CTR), a common term in Online Marketing which typically describes the number of clicks an ad receives divided by the number of times the ad is shown. Here, click-through rate is measured as the number of clicks a website element receives divided by the total number of visits on the website. The report from the team analysing the website shows the specific numbers and explains how they reacted to them:
 
@@ -31,8 +32,9 @@ V., 16
   
 Based on the feedback and reviewing some successful colour choices from previous ad-campaigns, the UX team asked web-design for the three new variations.
 
-![Image Alt Text](page_versions.png)
-<img src="page_versions.png" width="600" alt="Image Alt Text" />
+<div align="center">
+<img src="page_versions.png" width="750" alt="Image Alt Text" />
+</div>
 
 Given all you’ve read above, how would you proceed to design an experiment that would improve the website? Before moving onto the next lesson, try to answer these questions by reviewing the resources on Experimental Design you read at the beginning of this project:
 
