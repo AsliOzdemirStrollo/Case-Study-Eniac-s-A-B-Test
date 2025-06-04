@@ -9,7 +9,7 @@ To find out which version of pages is better for business value.
 Details of this project are as follows:
 
 Now that you’ve learned the basics of various hypothesis tests and how to evaluate them, it is time to return to Eniac’s A/B test. This is what the homepage currently looks like:
-![Image Alt Text](homepage.jpg)
+![Image Alt Text](homepage.jpeg)
 
 The white “SHOP NOW” button takes pride of place in the primary banner, but only attracts about 2% of users, as determined by click-through rate (CTR), a common term in Online Marketing which typically describes the number of clicks an ad receives divided by the number of times the ad is shown. Here, click-through rate is measured as the number of clicks a website element receives divided by the total number of visits on the website. The report from the team analysing the website shows the specific numbers and explains how they reacted to them:
 
