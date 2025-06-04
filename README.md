@@ -32,7 +32,7 @@ V., 16
 Based on the feedback and reviewing some successful colour choices from previous ad-campaigns, the UX team asked web-design for the three new variations.
 
 ![Image Alt Text](page_versions.png)
-<img src="page_versions.png" width="400" alt="Image Alt Text" />
+<img src="page_versions.png" width="600" alt="Image Alt Text" />
 
 Given all you’ve read above, how would you proceed to design an experiment that would improve the website? Before moving onto the next lesson, try to answer these questions by reviewing the resources on Experimental Design you read at the beginning of this project:
 
