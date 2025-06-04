@@ -10,7 +10,7 @@ Details of this project are as follows:
 
 Now that you’ve learned the basics of various hypothesis tests and how to evaluate them, it is time to return to Eniac’s A/B test. This is what the homepage currently looks like:
 <div align="center">
-<img src="homepage.jpeg" width="400" alt="Image Alt Text" />
+<img src="homepage.jpeg" width="550" alt="Image Alt Text" />
 </div>
 
 The white “SHOP NOW” button takes pride of place in the primary banner, but only attracts about 2% of users, as determined by click-through rate (CTR), a common term in Online Marketing which typically describes the number of clicks an ad receives divided by the number of times the ad is shown. Here, click-through rate is measured as the number of clicks a website element receives divided by the total number of visits on the website. The report from the team analysing the website shows the specific numbers and explains how they reacted to them:
@@ -88,9 +88,13 @@ If the answer is still no, your options are:
 
 In this case, the website team decided to track drop-off rate and homepage-return rate as well (go back to the previous lesson for the definitions of these terms). To make things spicier, an error in their collection data process made it impossible to know these rates for version B:
 
-![Image Alt Text](drop_off_image-1.png)
+<div align="center">
+<img src="drop_off_image-1.png" width="800" alt="Image Alt Text" />
+</div>
 
-![Image Alt Text](home_return_image-1.png)
+<div align="center">
+<img src="home_return_image-1.png" width="800" alt="Image Alt Text" />
+</div>
 
 ## 🧩 FINAL QUESTION: With the result of your chi-square tests and this additional data: which version is your winner?
 
